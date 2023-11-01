@@ -16,6 +16,12 @@ This fisrt version, does not convert the textures and also does not check if the
 
 I decided to create this script while edditing some models that had dds textures and for some reason, sometimes DDS files do not load in my Blender.
 
+- Usage
+
+After loading a model in Blender with a dds texture, save the project and convert the dds textures to png.
+Move the png Textures to the root folder (Where your .blend file was saved), or the subfolder inside it if you defined a subfolder in the Options section.
+In Blender's "Text Editor" (Shift + F11) open the script.
+Click run (or press Alt + P).
 
 - W.I.P.
 
